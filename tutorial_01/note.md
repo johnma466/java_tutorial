@@ -10,7 +10,9 @@ Go to [Oracle website](https://www.oracle.com/technetwork/java/javase/downloads/
 ![Run as administrator](image/run.png)
 1. Config operating system path:
     1. Copy the java jdk path
+    
     ![java jdk](image/jdk.png)
+    
     1. Then, paste it to system path variable.
     ![system]!(image/system_path.png)
     ![variable path](image/system_path_sdk.png)
@@ -28,5 +30,4 @@ Download Eclise (Java IDE for Java Developers) for your corresponding operating 
 * [URL for Windows.](https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2019-06/R/eclipse-java-2019-06-R-win32-x86_64.zip)
 * [URL for Mac OS X or above.](https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2019-06/R/eclipse-java-2019-06-R-macosx-cocoa-x86_64.dmg)
 
-![GitHub Logo](image/prof.png)
 
