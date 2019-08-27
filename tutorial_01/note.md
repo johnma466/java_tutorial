@@ -12,7 +12,7 @@ Go to [Oracle website](https://www.oracle.com/technetwork/java/javase/downloads/
     1. Copy the java jdk path    
     ![java jdk](image/jdk.png)    
     1. Then, paste it to system path variable.
-    ![system]!(image/system_path.png)
+    ![system](image/system_path.png)
     ![variable path](image/system_path_sdk.png)    
     1. Repeat step 1 and 2 for java jre.
     ![jre](image/system_path_jre.png)
