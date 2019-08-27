@@ -7,11 +7,11 @@ Go to [Oracle website](https://www.oracle.com/technetwork/java/javase/downloads/
 * Mac OS X or above: jdk-8u221-macosx-x64.dmg
 ### Installation on Windows
 1. ![Run as administrator](url) and click the following **Next** button until the installation finishes.
-2. Config operating system path:
-  1. Copy path to java jdk
-  2. Paste to system variable path.
-  3. Repeat step 1 and 2 for java jre.
-3. Test: open **Command Prompt** and type `java -version`. ![result](url)
+1. Config operating system path:
+    1. Copy path to java jdk
+    1. Paste to system variable path.
+    1. Repeat step 1 and 2 for java jre.
+1. Test: open **Command Prompt** and type `java -version`. ![result](url)
 
 
 
