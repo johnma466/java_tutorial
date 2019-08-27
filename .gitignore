@@ -1,4 +1,4 @@
 *
 !*.gitignore
-!**/*.md
+!tutorial_01/*.md
 !*.java
