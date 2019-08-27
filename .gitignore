@@ -1,4 +1,4 @@
-!*.gitignore
+tutorial_01/*
 !tutorial_01/*.md
-!*.java
-*
+!tutorial_01/*.java
+
