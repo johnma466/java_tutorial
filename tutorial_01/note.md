@@ -6,6 +6,7 @@ Go to [Oracle website](https://www.oracle.com/technetwork/java/javase/downloads/
 * Windows x64: jdk-8u221-windows-x64.exe
 * Mac OS X or above: jdk-8u221-macosx-x64.dmg
 ### Installation on Windows
+1. ![Run as administrator](url) and click the following Next button until the installation finishes.
 
 
 
