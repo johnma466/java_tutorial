@@ -9,13 +9,11 @@ Go to [Oracle website](https://www.oracle.com/technetwork/java/javase/downloads/
 1. Run as administrator and click the following **Next** button until the installation finishes.
 ![Run as administrator](image/run.png)
 1. Config operating system path:
-    1. Copy the java jdk path
-    
+    1. Copy the java jdk path    
     ![java jdk](image/jdk.png)    
     1. Then, paste it to system path variable.
     ![system]!(image/system_path.png)
-    ![variable path](image/system_path_sdk.png)
-    
+    ![variable path](image/system_path_sdk.png)    
     1. Repeat step 1 and 2 for java jre.
     ![jre](image/system_path_jre.png)
 1. Test: open **Command Prompt** and type `java -version`. 
