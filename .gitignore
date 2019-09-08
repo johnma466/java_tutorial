@@ -100,3 +100,6 @@ hs_err_pid*
 
 java_ta/*
 tutorial_01/schedule.txt
+
+*.DS_Store
+*.dmg
